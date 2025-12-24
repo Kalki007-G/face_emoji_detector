@@ -30,5 +30,4 @@ Stay neutral 😐 → neutral emoji
 
 ---
 
-## 📁 Project Structure
 
